@@ -258,6 +258,7 @@ module.exports = {
 
     getCities: (req, res) => {
         sequelize.query(`
+        
         `)
-    }
+    },
 }
